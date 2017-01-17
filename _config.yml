@@ -1,0 +1,36 @@
+typography_spectrum: 0.1442539901897717
+color:
+  saturation: 0.922468079328537
+  lightness: 0.45097034790663804
+  brandStrength: 0.4687600688261008
+  brandColors:
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
+  rhythmicContrast: 0.5462507377951268
+github: true
+layout_spectrum: 0.0671560517114836
+analytics:
+  twitter: nw2kr
+  google: UA-90315636-1
+author:
+  email: info@practicalacts.org
+name: eforli
+navigation:
+  - name: an initiative by
+    url: 'http://www.practicalacts.org'
+    type: external
+title: e~for~li~
+content: []
+description: >-
+  ideas on: sustaining confidence... supporting incomes... helping us all to
+  thrive...
+purpose:
+  - type: contact
+    url: 'mailto:info@practicalacts.org'
+    label: Contact
+  - type: external
+    url: 'https://twitter.com/eforli_'
+    label: Twitter
