@@ -9,15 +9,16 @@ publisher:
 keywords: []
 description: Search Eforli!
 app_links: []
-isBasedOnUrl: 'https://cse.google.com/cse/publicurl?cx=010396147131445893286:rfca9hlr9j4'
 title: ''
-datePublished: '2017-01-18T23:15:05.521Z'
-dateModified: '2017-01-18T23:14:59.633Z'
+datePublished: '2017-01-18T23:15:42.424Z'
+dateModified: '2017-01-18T23:15:41.994Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-18-google-custom-search.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-01-18T23:14:43.128Z'
+url: google-custom-search/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
