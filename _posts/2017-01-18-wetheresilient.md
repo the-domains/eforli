@@ -3,15 +3,15 @@ description: >-
   #WeTheResilient … have been here before. Please share this free #WeThePeople
   art and disrupt the rising tide of hate and fear.
 author: []
-datePublished: '2017-01-18T22:29:21.959Z'
-dateModified: '2017-01-18T22:29:21.783Z'
+datePublished: '2017-01-18T23:15:05.134Z'
+dateModified: '2017-01-18T23:14:59.633Z'
 title: '#WeTheResilient'
 publisher: {}
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-18-wetheresilient.md
-datePublishedOriginal: '2017-01-18T22:29:21.959Z'
 starred: false
+datePublishedOriginal: '2017-01-18T22:29:21.959Z'
 _context: 'http://schema.org'
 _type: Article
 
