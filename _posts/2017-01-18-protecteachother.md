@@ -3,15 +3,15 @@ description: >-
   We #ProtectEachOther from harm and division. Please share this free
   #WeThePeople art and disrupt the rising tide of hate and fear.
 author: []
-datePublished: '2017-01-18T22:29:22.169Z'
-dateModified: '2017-01-18T22:29:21.894Z'
+datePublished: '2017-01-18T23:15:04.790Z'
+dateModified: '2017-01-18T23:14:59.633Z'
 title: '#ProtectEachOther'
 publisher: {}
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-18-protecteachother.md
-datePublishedOriginal: '2017-01-18T22:29:22.169Z'
 starred: false
+datePublishedOriginal: '2017-01-18T22:29:22.169Z'
 _context: 'http://schema.org'
 _type: Article
 
