@@ -22,9 +22,6 @@ navigation:
   - name: an initiative by
     url: 'http://www.practicalacts.org'
     type: external
-  - name: Search
-    url: 'https://cse.google.com/cse/publicurl?cx=010396147131445893286:rfca9hlr9j4'
-    type: external
 collections:
   - index:
       path: /
