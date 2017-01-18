@@ -1,13 +1,30 @@
-title: e~for~li~
-content: []
+typography_spectrum: 0.6738351
+color:
+  saturation: 0.922468079328537
+  brandStrength: 0.4687600688261008
+  rhythmicContrast: 0.5462507377951268
+  brandColors:
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
+  lightness: 0.450970347906638
 github: true
-purpose:
-  - type: contact
-    url: 'mailto:info@practicalacts.org'
-    label: Contact
-  - type: external
-    url: 'https://twitter.com/eforli_'
-    label: Twitter
+layout_spectrum: 1
+analytics:
+  twitter: nw2kr
+  google: UA-90315636-1
+author:
+  email: info@practicalacts.org
+name: eforli
+navigation:
+  - name: an initiative by
+    url: 'http://www.practicalacts.org'
+    type: external
+  - name: Search
+    url: 'https://cse.google.com/cse/publicurl?cx=010396147131445893286:rfca9hlr9j4'
+    type: external
 collections:
   - index:
       path: /
@@ -20,29 +37,15 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: e~for~li~
+content: []
 description: >-
   ideas on: sustaining confidence... supporting incomes... helping us all to
   thrive...
-color:
-  saturation: 0.922468079328537
-  brandStrength: 0.4687600688261008
-  rhythmicContrast: 0.5462507377951268
-  brandColors:
-    - '#FF6600'
-    - '#C13B00'
-    - '#5E6D70'
-    - '#424E4F'
-    - '#1B1D1E'
-  lightness: 0.450970347906638
-navigation:
-  - name: an initiative by
-    url: 'http://www.practicalacts.org'
-    type: external
-analytics:
-  twitter: nw2kr
-  google: UA-90315636-1
-name: eforli
-author:
-  email: info@practicalacts.org
-typography_spectrum: 0.6738351
-layout_spectrum: 1
+purpose:
+  - type: contact
+    url: 'mailto:info@practicalacts.org'
+    label: Contact
+  - type: external
+    url: 'https://twitter.com/eforli_'
+    label: Twitter
