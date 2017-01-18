@@ -3,15 +3,15 @@ description: >-
   We #DefendDignity … without it we are nothing. Please share this free
   #WeThePeople art and disrupt the rising tide of hate and fear.
 author: []
-datePublished: '2017-01-18T22:29:21.955Z'
-dateModified: '2017-01-18T22:29:21.760Z'
+datePublished: '2017-01-18T23:15:05.293Z'
+dateModified: '2017-01-18T23:14:59.633Z'
 title: '#DefendDignity'
 publisher: {}
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-18-defenddignity.md
-datePublishedOriginal: '2017-01-18T22:29:21.955Z'
 starred: false
+datePublishedOriginal: '2017-01-18T22:29:21.955Z'
 _context: 'http://schema.org'
 _type: Article
 
