@@ -3,15 +3,15 @@ description: >-
   We are #GreaterThanFear, our light will shine through. Please share this free
   #WeThePeople art and disrupt the rising tide of hate and fear.
 author: []
-datePublished: '2017-01-18T22:29:22.175Z'
-dateModified: '2017-01-18T22:29:21.872Z'
+datePublished: '2017-01-18T23:15:04.938Z'
+dateModified: '2017-01-18T23:14:59.633Z'
 title: '#GreaterThanFear'
 publisher: {}
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-18-greaterthanfear.md
-datePublishedOriginal: '2017-01-18T22:29:22.175Z'
 starred: false
+datePublishedOriginal: '2017-01-18T22:29:22.175Z'
 _context: 'http://schema.org'
 _type: Article
 
