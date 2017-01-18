@@ -3,15 +3,15 @@ description: >-
   #WeTheIndivisible … stand strong together. Please share this free #WeThePeople
   art and disrupt the rising tide of hate and fear.
 author: []
-datePublished: '2017-01-18T22:29:22.228Z'
-dateModified: '2017-01-18T22:29:21.913Z'
+datePublished: '2017-01-18T23:15:04.566Z'
+dateModified: '2017-01-18T23:14:59.633Z'
 title: '#WeTheIndivisible'
 publisher: {}
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-18-wetheindivisible.md
-datePublishedOriginal: '2017-01-18T22:29:22.228Z'
 starred: false
+datePublishedOriginal: '2017-01-18T22:29:22.228Z'
 _context: 'http://schema.org'
 _type: Article
 
