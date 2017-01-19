@@ -22,8 +22,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/eforli_'
-datePublished: '2017-01-18T23:15:05.644Z'
-dateModified: '2017-01-18T23:14:59.633Z'
+datePublished: '2017-01-19T16:21:10.679Z'
+dateModified: '2017-01-19T16:21:08.406Z'
 title: '#Makers'
 via: {}
 inFeed: true
