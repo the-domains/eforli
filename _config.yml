@@ -1,17 +1,17 @@
-typography_spectrum: 0.6738351
+layout_spectrum: 0.11708780099757679
+typography_spectrum: 0.20036160653401722
 color:
-  saturation: 0.922468079328537
-  brandStrength: 0.4687600688261008
-  rhythmicContrast: 0.5462507377951268
+  saturation: 0.9879361908114745
+  brandStrength: 0.8279156855941925
+  rhythmicContrast: 0.9689279457000037
   brandColors:
     - '#FF6600'
     - '#C13B00'
     - '#5E6D70'
     - '#424E4F'
     - '#1B1D1E'
-  lightness: 0.450970347906638
+  lightness: 0.3600208520265941
 github: true
-layout_spectrum: 1
 analytics:
   twitter: nw2kr
   google: UA-90315636-1
@@ -56,7 +56,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
