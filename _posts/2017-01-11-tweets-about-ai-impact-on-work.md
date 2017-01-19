@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: It’s one of the big topics of our time…
-dateModified: '2017-01-18T23:14:59.633Z'
-datePublished: '2017-01-18T23:15:02.395Z'
+dateModified: '2017-01-19T16:21:08.406Z'
+datePublished: '2017-01-19T16:21:12.180Z'
 title: Tweets about AI impact on work
 author: []
 publisher: {}
