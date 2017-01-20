@@ -1,4 +1,3 @@
-layout_spectrum: 0.11708780099757679
 typography_spectrum: 0.20036160653401722
 color:
   saturation: 0.9879361908114745
@@ -12,6 +11,7 @@ color:
     - '#1B1D1E'
   lightness: 0.3600208520265941
 github: true
+layout_spectrum: 0.11708780099757679
 analytics:
   twitter: nw2kr
   google: UA-90315636-1
@@ -22,6 +22,9 @@ navigation:
   - name: an initiative by
     url: 'http://www.practicalacts.org'
     type: external
+  - name: About
+    id: 232eb9ec-f0c4-4e3a-809f-c7988cbecb2f
+    type: content
 collections:
   - index:
       path: /
@@ -44,19 +47,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3dd3534-ca2f-4287-8e7d-03753be911cd.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
