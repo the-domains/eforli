@@ -22,9 +22,6 @@ navigation:
   - name: an initiative by
     url: 'http://www.practicalacts.org'
     type: external
-  - name: Search Eforli
-    id: f8345eca-71d8-4d97-be7c-63d597492abb
-    type: content
 collections:
   - index:
       path: /
@@ -56,7 +53,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
