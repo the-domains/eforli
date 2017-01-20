@@ -13,7 +13,7 @@ keywords:
   - twitter
   - share
   - unfollow
-description: 'Let''s hear it for the makers, and all traditional crafts.'
+description: ''
 inLanguage: en
 app_links:
   - path: >-
@@ -22,9 +22,9 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/eforli_'
-datePublished: '2017-01-19T16:21:10.679Z'
-dateModified: '2017-01-19T16:21:08.406Z'
-title: '#Makers'
+datePublished: '2017-01-20T16:10:08.333Z'
+dateModified: '2017-01-20T16:10:07.500Z'
+title: '@eforli_'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-11-the-latest-tweets-from-eforli-eforli_-sharing-ideas-on.md
@@ -34,8 +34,8 @@ _type: Comment
 _context: 'http://schema.org'
 
 ---
-![Let's hear it for the makers, and all traditional crafts.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3dd3534-ca2f-4287-8e7d-03753be911cd.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3dd3534-ca2f-4287-8e7d-03753be911cd.jpg)
 
-# \#Makers
+# @eforli\_
 
 > The latest Tweets from eforli (@eforli\_). sharing ideas on: sustaining confidence... supporting incomes... helping us all to thrive.
