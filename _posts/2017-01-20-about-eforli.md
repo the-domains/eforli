@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: 'Sharing ideas on how each of us can:'
-dateModified: '2017-01-20T17:39:51.689Z'
-datePublished: '2017-01-20T17:39:52.201Z'
+dateModified: '2017-01-20T17:42:59.568Z'
+datePublished: '2017-01-20T17:43:00.054Z'
 title: About eforli
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-01-20-about-eforli.md
 starred: false
 datePublishedOriginal: '2017-01-20T17:39:52.201Z'
-sourcePath: _posts/2017-01-20-about-eforli.md
 url: about-eforli/index.html
 _type: Article
 
