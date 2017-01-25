@@ -8,8 +8,8 @@ description: >-
   revolution that has been occurring since the middle of the last century. It is
   characterized by a fusion of technologies that is blurring the lines between
   the physical, digital, and biological spheres.
-dateModified: '2017-01-25T21:08:16.000Z'
-datePublished: '2017-01-25T21:08:16.467Z'
+dateModified: '2017-01-25T21:09:57.907Z'
+datePublished: '2017-01-25T21:09:59.901Z'
 title: The Fourth Industrial Revolution
 author:
   - name: Klaus Schwab
@@ -17,9 +17,9 @@ author:
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-01-25-the-fourth-industrial-revolution.md
 starred: false
 datePublishedOriginal: '2017-01-25T21:08:16.467Z'
-sourcePath: _posts/2017-01-25-the-fourth-industrial-revolution.md
 url: the-fourth-industrial-revolution/index.html
 _type: Article
 
