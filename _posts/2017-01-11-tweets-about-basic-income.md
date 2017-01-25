@@ -4,8 +4,8 @@ description: >-
   If we create a foundation, rather than a social security net, we’ll build
   confidence for all regardless of circumstance. In confidence lies our
   foundation for excellence.
-dateModified: '2017-01-18T23:14:59.633Z'
-datePublished: '2017-01-18T23:15:03.012Z'
+dateModified: '2017-01-25T21:09:57.907Z'
+datePublished: '2017-01-25T21:10:02.261Z'
 title: Tweets about Basic Income
 author: []
 publisher: {}
