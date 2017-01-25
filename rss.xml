@@ -4,15 +4,22 @@
         <description><![CDATA[e~for~li~]]></description>
         <link>http://eforli.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 Jan 2017 17:43:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2017 21:10:28 GMT</lastBuildDate>
         <atom:link href="http://eforli.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 20 Jan 2017 17:43:01 GMT</pubDate>
+        <pubDate>Wed, 25 Jan 2017 21:10:03 GMT</pubDate>
         <item>
             <title><![CDATA[Love what you do]]></title>
             <description><![CDATA[<h1>Love what you do</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fce4fc9-6c4d-4f44-b981-ce5966f928d3.jpg" title="Love what you do">,<p>“Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.” Steve Jobs</p>]]></description>
             <link>http://eforli.com/love-what-you-do/index.html</link>
             <guid isPermaLink="false">97c82b08-ad48-4e0d-bdef-cf00de9b822d</guid>
             <pubDate>Wed, 16 Nov 2016 21:10:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Fourth Industrial Revolution]]></title>
+            <description><![CDATA[<h1>The Fourth Industrial Revolution</h1>,<h2>What it means, how to respond, from the WEF</h2>,<blockquote>We stand on the brink of a technological revolution that will fundamentally alter the way we live, work, and relate to one another. In its scale, scope, and complexity, the transformation will be unlike anything humankind has experienced before. We do not yet know just how it will unfold, but one thing is clear: the response to it must be integrated and comprehensive, involving all stakeholders of the global polity, from the public and private sectors to academia and civil society.</blockquote>,<p>The First Industrial Revolution used water and steam power to mechanize production. The Second used electric power to create mass production. The Third used electronics and information technology to automate production. Now a Fourth Industrial Revolution is building on the Third, the digital revolution that has been occurring since the middle of the last century. It is characterized by a fusion of technologies that is blurring the lines between the physical, digital, and biological spheres.</p>,<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FkhjY5LWF3tg%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkhjY5LWF3tg&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FkhjY5LWF3tg%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>,<p>There are three reasons why today’s transformations represent not merely a prolongation of the Third Industrial Revolution but rather the arrival of a Fourth and distinct one: </p>,<ul><li>velocity, </li><li>scope, and </li><li>systems impact. </li></ul>,<p><strong>The speed of current breakthroughs has no historical precedent. </strong>When compared with previous industrial revolutions, the Fourth is evolving at an exponential rather than a linear pace. Moreover, it is disrupting almost every industry in every country. And the breadth and depth of these changes herald the transformation of entire systems of production, management, and governance.</p>]]></description>
+            <link>http://eforli.com/the-fourth-industrial-revolution/index.html</link>
+            <guid isPermaLink="false">039a37f3-e507-439d-b10b-6194f59feab1</guid>
+            <pubDate>Wed, 25 Jan 2017 21:08:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@eforli_]]></title>
@@ -69,13 +76,6 @@
             <link>http://eforli.com/creativity/index.html</link>
             <guid isPermaLink="false">6a2fcf6b-90a4-4da5-98fd-62a48dc7fbaa</guid>
             <pubDate>Wed, 16 Nov 2016 20:21:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Serendipity]]></title>
-            <description><![CDATA[<h1>Serendipity</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7cb828e-a388-4352-92f9-62c88af11e46.jpg" title="Serendipity">,<p>“Innovation is serendipity, so you don't know what people will make.” Tim Berners-Lee</p>]]></description>
-            <link>http://eforli.com/serendipity/index.html</link>
-            <guid isPermaLink="false">f067f9c0-dc2c-4929-8270-c903d7d173e9</guid>
-            <pubDate>Wed, 16 Nov 2016 20:21:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
