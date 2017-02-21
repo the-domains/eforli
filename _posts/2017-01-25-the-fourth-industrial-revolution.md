@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-02-21T16:27:10.540Z'
+datePublished: '2017-02-21T16:28:05.477Z'
 description: ''
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-02-21T16:27:07.713Z'
+dateModified: '2017-02-21T16:27:59.994Z'
 sourcePath: _posts/2017-01-25-the-fourth-industrial-revolution.md
 title: The Fourth Industrial Revolution
 hasPage: true
@@ -16,6 +16,7 @@ _type: Article
 
 ---
 # The Fourth Industrial Revolution
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/691c49ee-2f30-4e19-b08c-3bc03b6c6b1d.jpg)
 
 ## What it means, how to respond, from the WEF
 
