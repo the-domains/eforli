@@ -1,17 +1,19 @@
-typography_spectrum: 0.20036160653401722
+layout_spectrum: 0.0562707446995053
+typography_spectrum: 0.9648003879670828
 color:
-  saturation: 0.9879361908114745
-  brandStrength: 0.8279156855941925
-  rhythmicContrast: 0.9689279457000037
+  saturation: 0.20822287541583623
+  brandStrength: 0.8056913310689575
+  rhythmicContrast: 0.06711550251211934
   brandColors:
-    - '#FF6600'
-    - '#C13B00'
-    - '#5E6D70'
-    - '#424E4F'
-    - '#1B1D1E'
-  lightness: 0.3600208520265941
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  lightness: 0.10427802035234648
+coverPrefs:
+  filter: false
 github: true
-layout_spectrum: 0.11708780099757679
 analytics:
   twitter: nw2kr
   google: UA-90315636-1
