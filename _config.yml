@@ -72,6 +72,3 @@ purpose:
   - type: contact
     url: 'mailto:info@practicalacts.org'
     label: Contact
-  - type: external
-    url: 'https://twitter.com/eforli_'
-    label: Twitter
